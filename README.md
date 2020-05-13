@@ -38,7 +38,7 @@ Git Repo creation lesson2 in Intro to programming Nanodegree from [@Udacity](htt
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/bvit84/starterRepo/new).
+Feel free to dive in! [Open an issue](https://github.com/bvit84/starterRepo/issues).
 
 Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
